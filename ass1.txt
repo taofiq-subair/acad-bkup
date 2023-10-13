@@ -1,0 +1,7 @@
+- integrate wikipedia with gtts. search wiki and turn the text to speech
+
+- create a form that works with db to do CRUD stuff
+
+- module name(sr). We use the microphone to.
+Use the sr with in the first
+sr -> gtts -> 

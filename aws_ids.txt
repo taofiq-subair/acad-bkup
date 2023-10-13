@@ -1,0 +1,9 @@
+AMIs
+----
+053b0d53c279acc90 (ubuntu 22.0.4)
+0df2a11dd1fe1f8e3 (centos stream 9)
+04cb4ca688797756f (amz linux)
+
+SG
+--
+08ef1e3b267382344 (SG1)

@@ -1,0 +1,14 @@
+Consensus Algorithms
+Distibuted Databases
+Distributed File Systems
+Distributed Transactions
+Blockchain and Distributed Ledgers
+Serverless Computing
+Distributed Machine Learning
+Content Delivery Networks (CDNs)
+Event Sourcing and CQRS
+Microservices Communication Patterns
+Distributed  Tracing
+Peer-to-Peer (P2P) Network
+Quantum computing
+Distributed  Systems on the Edge

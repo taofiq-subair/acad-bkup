@@ -1,0 +1,13 @@
+Note-worthy plugins:
+- maven
+- msbuild
+- github
+- docker
+- sonarcloud
+
+---------------------------
+Configuring apache tomcat
+---------------------------
+We can change the port by editing the ".xml"
+We can also add users by editing the 'tomcat-users.xml' [<user username="" password="" roles="manager-script/>]
+startup.bat to start the tomcat server.

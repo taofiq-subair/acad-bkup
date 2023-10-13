@@ -1,0 +1,22 @@
+- register customers (assign Wallet ID)
+-- fund wallet with an amount
+- 
+
+TASK
+----
+Use scanner to receve input from the user
+Communicate with the user to ask how to pop the product 
+
+    public static boolean isRegistered() {
+        String d = scn.nextLine();
+        if (d.equalsIgnoreCase("yes")) {
+            Customer cust = getCustomerByWalletID();
+            if (cust != null) {
+                return true;
+            }
+            return true;
+        }
+        else {
+            return false;
+        }
+    }

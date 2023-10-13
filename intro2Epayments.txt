@@ -1,0 +1,52 @@
+Electronic Payments
+--------------------
+Electronic funds transfer aka e-payments is the exchange of value via an electronic means
+eg:
+- atm cash withdrawals
+- mobile money transfers
+- ibanking payments
+
+History
+-------
+1918 - Electric money was born via telegraph
+1938 - Bankmatic ATM was invented by Luthor Simijian. 20 patents by citicorps. After 6
+months, no demand.
+1946 - Charge0it was create by Charles Biggins as the first credit card machine
+1968 - The ATM was conceptualized by George Chastin (
+  electric eng), Tom Barnes(mech eng), Don Wetsel
+1972 - first Automated Clearing House (ACH) 
+1973 - First ATM was installed by NY First National City PArk
+1990s - PoS were created
+2000s - Use of mobile apps to make payments
+
+
+BENEFITS OF EPAYMENTS
+---------------------
+Consumers
+Retialer, Merchants and Organizations
+Government
+
+Payment token: physical device that is unique to a customer used to initiate a payment tx 
+Payment channel: system through which payments are initiated eg: pos, kiosks
+Payment processor:  payment enablers. Offers a gateway and inter connectivity between multiple participants.
+Paypal, visa, mastercard
+Auth entities: financial institutions
+
+E Payments terminologies
+------------------------
+Cardholder: name of the card holder
+PAN: Uniqly ids a cary 16 or 19
+BIN or IIN: first 6 digits of the PAN
+CVV: 3 digits Card Verification Value
+Card Issuer
+Card Associatoin 
+Card Acceptor 
+Acquirer 
+Processor 
+
+Entities of EPAYMENT
+--------------------
+Issuer 
+Acquirer 
+Merchant / Card acceptor 
+Card association

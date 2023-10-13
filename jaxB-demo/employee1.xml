@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <name>Sunny Ade</name>
+    <phone-number>
+        <work>09013484422</work>
+        <home>08038874433</home>
+    </phone-number>
+    <address>
+        <city>Wuse II</city>
+        <house-no>7 Obafemi Street</house-no>
+        <postal-code>321234-09</postal-code>
+        <state>FCT Abuja</state>
+    </address>
+    <department>
+        <name>IT</name>
+        <manager>
+            <name>Lamidi Apapa</name>
+            <phone-number>
+                <work>0706778799</work>
+            </phone-number>
+        </manager>
+    </department>
+</employee>

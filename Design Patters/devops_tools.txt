@@ -1,0 +1,2 @@
+- sonar cloud : is a static code analyzer that ensures a team follows a coding standard and rules in general.
+- vagrant clund : a repo for os images (docker reg).

@@ -1,0 +1,9 @@
+[ {
+  "studId" : 201,
+  "studName" : "Johnny",
+  "studSkill" : "Go"
+}, {
+  "studId" : 202,
+  "studName" : "Bobby",
+  "studSkill" : "Ruby"
+} ]

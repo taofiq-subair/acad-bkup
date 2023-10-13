@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js" ></script>
+  <script>
+    $(document).ready(function(){
+      $("button").click(function(){
+        jQuery.ajax({url: "test.html",
+      type: "GET",
+      success:function(data) {
+        $("#para").html(data);
+      }})
+      })
+    })
+  </script>
+</head>
+<body>
+<h3>This is an example of using the jQuery's ajax() method. </h3>
+<h3>Click the following button to see the effect.  </h3>
+<button>Click me!</button>
+<p id="para"></p>
+</body>
+</html>

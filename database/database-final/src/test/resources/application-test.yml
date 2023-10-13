@@ -1,0 +1,3 @@
+spring:
+  datasource:
+    url: 'jdbc:sqlserver://ISW-VERVE-AG1\\SQLEXPRESS01;encrypt=false;integratedSecurity=true;databaseName=Training'
